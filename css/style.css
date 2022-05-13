@@ -7,3 +7,27 @@
     text-align: center;
     
 }
+#img-div {
+    width: 90%;
+    background-color: white;
+    margin: auto;
+
+}
+#image {
+    display: block;
+    max-width: 90%;
+    height: 90%;
+    margin: auto;
+    
+}
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    max-width: 45%;
+    margin: auto;
+}
+li {
+    padding: 10px;
+}
