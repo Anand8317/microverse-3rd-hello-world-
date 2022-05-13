@@ -16,7 +16,7 @@
 #image {
     display: block;
     max-width: 90%;
-    height: 90%;
+    height: auto;
     margin: auto;
     
 }
@@ -30,4 +30,15 @@
 }
 li {
     padding: 10px;
+}
+#italic {
+   padding: 20px;
+    
+}
+#footer {
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
 }
